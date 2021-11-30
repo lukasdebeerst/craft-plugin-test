@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: about
+name: About
+propagationMethod: all
+siteSettings:
+  56e61fda-a4dc-4028-a2f4-12ae989503d5: # test craft
+    enabledByDefault: true
+    hasUrls: true
+    template: about/_entry
+    uriFormat: about
+type: single

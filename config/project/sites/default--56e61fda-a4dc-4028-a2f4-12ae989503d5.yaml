@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'test craft'
+primary: true
+siteGroup: f9a238ed-0eb6-40c9-96a9-65f018b1d870 # test craft
+sortOrder: 1

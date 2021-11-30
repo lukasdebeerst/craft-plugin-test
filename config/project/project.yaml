@@ -1,0 +1,27 @@
+dateModified: 1638194681
+email:
+  fromEmail: lukasdebeerst@bitsoflove.be
+  fromName: 'test craft'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0fb41d5c-8206-480a-ad5b-17eb660f1082: Title # Title
+    2ba515fa-9d57-45c4-8ddc-a1ce2b4b3557: About # About
+    16b8f864-721b-4b8b-9212-6a119dc07b5e: Description # Description
+    56e61fda-a4dc-4028-a2f4-12ae989503d5: 'test craft' # test craft
+    66b42b0b-00b6-496b-bbf6-45f6778835e8: About # About
+    7148232f-f814-445a-9c30-0041fdc3232d: TextWithTitle # TextWithTitle
+    c60eca44-de94-434b-8c67-75151be6e740: Common # Common
+    f9a238ed-0eb6-40c9-96a9-65f018b1d870: 'test craft' # test craft
+system:
+  edition: solo
+  live: true
+  name: 'test craft'
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

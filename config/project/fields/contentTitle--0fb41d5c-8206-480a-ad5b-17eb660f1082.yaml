@@ -1,0 +1,19 @@
+columnSuffix: zvsnacdx
+contentColumnType: text
+fieldGroup: 7148232f-f814-445a-9c30-0041fdc3232d # TextWithTitle
+handle: contentTitle
+instructions: ''
+name: Title
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText
